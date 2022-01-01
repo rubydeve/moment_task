@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node routes.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "moment": "^2.14.0",
+    "pug": "^3.0.2"
+  }
+}
